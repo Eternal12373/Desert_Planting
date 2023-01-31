@@ -1,0 +1,67 @@
+[
+  {
+    "Sourcefile": null,
+    "Include": "",
+    "Includepath": "H:\\Tools\\Arduino-1.8.19-DengFOC\\hardware\\arduino\\avr\\cores\\arduino"
+  },
+  {
+    "Sourcefile": null,
+    "Include": "",
+    "Includepath": "H:\\Tools\\Arduino-1.8.19-DengFOC\\hardware\\arduino\\avr\\variants\\mega"
+  },
+  {
+    "Sourcefile": "c:\\Users\\dell\\Desktop\\Mega2560\\Summer_Car\\build\\sketch\\Summer_Car.ino.cpp",
+    "Include": "Servo.h",
+    "Includepath": "H:\\Tools\\Arduino-1.8.19-DengFOC\\libraries\\Servo\\src"
+  },
+  {
+    "Sourcefile": "c:\\Users\\dell\\Desktop\\Mega2560\\Summer_Car\\build\\sketch\\Summer_Car.ino.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "c:\\Users\\dell\\Desktop\\Mega2560\\Summer_Car\\build\\sketch\\PS2X_lib.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "c:\\Users\\dell\\Desktop\\Mega2560\\Summer_Car\\build\\sketch\\chassis.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "H:\\Tools\\Arduino-1.8.19-DengFOC\\libraries\\Servo\\src\\avr\\Servo.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "H:\\Tools\\Arduino-1.8.19-DengFOC\\libraries\\Servo\\src\\mbed\\Servo.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "H:\\Tools\\Arduino-1.8.19-DengFOC\\libraries\\Servo\\src\\megaavr\\Servo.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "H:\\Tools\\Arduino-1.8.19-DengFOC\\libraries\\Servo\\src\\nrf52\\Servo.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "H:\\Tools\\Arduino-1.8.19-DengFOC\\libraries\\Servo\\src\\sam\\Servo.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "H:\\Tools\\Arduino-1.8.19-DengFOC\\libraries\\Servo\\src\\samd\\Servo.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "H:\\Tools\\Arduino-1.8.19-DengFOC\\libraries\\Servo\\src\\stm32f4\\Servo.cpp",
+    "Include": "",
+    "Includepath": null
+  }
+]
